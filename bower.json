@@ -1,0 +1,16 @@
+{
+  "name": "Marionettejs-Bootstrap4-es6",
+  "authors": [
+    "vkraietskyi <vkraietskyi@softjourn.com>"
+  ],
+  "description": "",
+  "main": "bower.json",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "backbone.marionette": "marionette#^2.4.5",
+    "es6-module-loader": "~0.5.4",
+    "jquery": "~2.1.1"
+  }
+}
